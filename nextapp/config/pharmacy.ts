@@ -8,8 +8,8 @@ export const PHARMACY_CONFIG = {
   nameAr: "صيدلية د. أبانوب رمزي",
   tagline: "Your trusted health partner in Egypt",
   taglineAr: "شريكك الموثوق للصحة في مصر",
-  whatsapp: "201000000000", // Change to actual WhatsApp number
-  phone: "+20 100 000 0000",
+  whatsapp: "201030559424", // Change to actual WhatsApp number
+  phone: "+201030559424",
   address: "Cairo, Egypt",
   addressAr: "القاهرة، مصر",
   email: "info@drabanoub.com",
